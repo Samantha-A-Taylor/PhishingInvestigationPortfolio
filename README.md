@@ -1,4 +1,4 @@
-# Phishing Email Analyses
+# Phishing Analyses
 ***
 
 ## Project Overview ☰
