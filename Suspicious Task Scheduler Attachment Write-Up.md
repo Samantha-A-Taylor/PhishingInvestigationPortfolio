@@ -88,6 +88,6 @@ The alert was confirmed as a **true positive**. The attachment was independently
 - Attachment Analysis (VirusTotal, HybridAnalysis)
 
 ## Practice Project Source
-[LetsDefend's SOC140 - Phishing Mail Detected - Suspicious Task Scheduler](https://app.letsdefend.io/monitoring?channel=investigation&event_id=82) 
+[SOC140 - Phishing Mail Detected - Suspicious Task Scheduler | LetsDefend](https://app.letsdefend.io/monitoring?channel=investigation&event_id=82)
 
 ***
