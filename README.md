@@ -5,7 +5,8 @@
 
 This project analyzes real-world medication safety incident data from the National Reporting and Learning System (NRLS) in England and Wales to identify patterns, clinical risk, and workflow vulnerabilities in medication errors. The analysis focuses on error types, harm severity, contributing factors, and variation across medication use processes, care settings, and locations. Insights support patient safety, quality improvement, and process optimization.
 
-## Projects 🔎
+## Project Parts <img width="23.75" height="29.75" alt="image" src="https://github.com/user-attachments/assets/0b89b807-26fe-4839-9dc3-00d2ed328bd5" />
+
 
 ✓ [SOC141 - Phishing URL Detected | LetsDefend](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Phishing%20URL%20Detected%20Write-Up.md)<br>
 ✓ [SOC140 - Phishing Mail Detected - Suspicious Task Scheduler | LetsDefend](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Suspicious%20Task%20Scheduler%20Attachment%20Write-Up.md) <br>
