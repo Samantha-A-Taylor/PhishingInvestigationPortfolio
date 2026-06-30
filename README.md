@@ -13,7 +13,7 @@ This project analyzes real-world medication safety incident data from the Nation
 ✓ [SOC120 - Phishing Mail Detected - Internal to Internal | LetsDefend](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Internal%20to%20Internal%20Write-Up.md) <br>
 ✓ [SOC114 - Malicious Attachment Detected - Phishing Alert | LetsDefend](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Malicious%20Attachment%20Detected%20Write-Up.md)<br>
 ✓ [SOC146 - Phishing Mail Detected - Excel 4.0 Macros | LetsDefend](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Excel%204.0%20Macros%20Write-Up.md)<br>
-✓ [Challenge | LetsDefend]()
+✓ [Challenge | LetsDefend](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Phishing%20Challenge%20Write-Up.md)
 
 ## Key Features 🔑
 
