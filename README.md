@@ -6,12 +6,12 @@ This project documents a series of hands-on phishing email and phishing URL inve
 
 ## Project Parts  <img width="23.75" height="29.75" alt="image" src="https://github.com/user-attachments/assets/0b89b807-26fe-4839-9dc3-00d2ed328bd5" />
 
-✓ [SOC Alert | Phishing URL Detected](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Phishing%20URL%20Detected%20Write-Up.md)<br>
-✓ [SOC Alert | Phishing Mail Detected - Suspicious Task Scheduler](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Suspicious%20Task%20Scheduler%20Attachment%20Write-Up.md) <br>
-✓ [SOC Alert | Phishing Mail Detected - Internal to Internal](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Internal%20to%20Internal%20Write-Up.md) <br>
-✓ [SOC Alert | Malicious Attachment Detected - Phishing Alert](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Malicious%20Attachment%20Detected%20Write-Up.md)<br>
-✓ [SOC Alert | Phishing Mail Detected - Excel 4.0 Macros](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Excel%204.0%20Macros%20Write-Up.md)<br>
-✓ [Challenge | Phishing Email](https://github.com/Samantha-A-Taylor/PhishingAnalyses/blob/main/Phishing%20Challenge%20Write-Up.md)
+✓ [SOC Alert | Phishing URL Detected](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio/blob/main/Alert%20%7C%20Phishing%20URL%20Detected.md)<br>
+✓ [SOC Alert | Phishing Mail Detected - Suspicious Task Scheduler](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio/blob/main/Alert%20%7C%20Suspicious%20Task%20Scheduler%20Attachment.md) <br>
+✓ [SOC Alert | Phishing Mail Detected - Internal to Internal](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio/blob/main/Alert%20%7C%20Internal%20to%20Internal.md) <br>
+✓ [SOC Alert | Malicious Attachment Detected - Phishing Alert](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio/blob/main/Alert%20%7C%20Malicious%20Attachment%20Detected.md)<br>
+✓ [SOC Alert | Phishing Mail Detected - Excel 4.0 Macros](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio/blob/main/Alert%20%7C%20Excel%204.0%20Macros.md)<br>
+✓ [Challenge | Phishing Email](https://github.com/Samantha-A-Taylor/PhishingInvestigationPortfolio/blob/main/Challenge%20%7C%20Phishing%20Email.md)
 
 ## Summary Table  <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/4b5c4721-14d5-4284-8bd0-83adb2b465c3" />
 
